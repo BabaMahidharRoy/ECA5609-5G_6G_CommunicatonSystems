@@ -1,6 +1,7 @@
 # Experiment 2.1
 
 ## code
+```matlab
 clc; 
 clear; 
 close all; 
@@ -22,7 +23,9 @@ plot(t,ones(size(t)),'-o','LineWidth',1.5)
 title('Continuous View of Slot Allocation') 
 xlabel('Time (ms)') 
 ylabel('Slot Presence') 
-grid on 
+grid on
+...
+```
 
 ## Output
 
