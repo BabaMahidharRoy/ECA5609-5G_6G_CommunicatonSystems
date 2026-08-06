@@ -32,4 +32,4 @@ grid on
 ...
 ```
 ## Output
-![Output](oj3.png]
+![Output](oj3.png)
