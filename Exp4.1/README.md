@@ -28,5 +28,4 @@ grid on
 ```
 ## Output
 ![Output](obj1.png)
-## Output
-![Output](obj1.png)
+
