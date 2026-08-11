@@ -1,4 +1,4 @@
-<img width="1466" height="508" alt="obj1" src="https://github.com/user-attachments/assets/2609e03f-fa8c-45da-8be7-fdaaaf7f8bbe" />
+
 # Experiment 6.1
 ## Code
 ```Matlab
@@ -19,3 +19,4 @@ title('5G NR Subcarrier Spacing for Different Numerologies')
 ```
 ## Output
 ![Output](obj1)
+<img width="1466" height="508" alt="obj1" src="https://github.com/user-attachments/assets/2609e03f-fa8c-45da-8be7-fdaaaf7f8bbe" />
